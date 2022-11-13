@@ -1,0 +1,21 @@
+.start h1 {
+    font-size: 3.5em;
+}
+
+.start p {
+    margin-bottom: 2em;
+    color: #ECFA00;
+}
+
+.shadow {
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.51);
+}
+
+.start {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100vh;
+    height: 85vh;
+}

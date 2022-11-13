@@ -1,0 +1,60 @@
+.points {
+    padding-top: 35px;
+}
+
+.points h1 {
+    font-size: 2.5em;
+}
+
+.points span {
+    font-weight: bold;
+}
+
+.tip span {
+    color: #ecFa00;
+}
+
+.wordContainer {
+    margin: 1.5em;
+    padding: 1.5em;
+    border-radius: 7px;
+    border: 15px solid #ecFa00;
+    display: flex;
+}
+
+.letter,
+.blankSquare {
+    font-size: 70px;
+    line-height: 1.5;
+    border: 3px solid #000;
+    border-radius: 5px;
+    height: 100px;
+    width: 100px;
+    text-transform: uppercase;
+    background-color: #fff;
+    color: #000;
+    font-weight: bold;
+    margin: 0 5px 0 5px;
+}
+
+.letterContainer p {
+    margin-bottom: 1.2em;
+}
+
+.letterContainer form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.letterContainer input {
+    height: 50px;
+    width: 50px;
+    font-size: 2em;
+    text-align: center;
+    margin-right: 1em;
+}
+
+.shadow {
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.51);
+}
